@@ -28,7 +28,7 @@ app:
       value: "1"
   # List of variables that can be referenced in server.xml
   # Liberty encrypted values are supported
-  java: 25
+  java: 21
   variables:
     - name: io_openliberty_sample_system_inMaintenance
       value: "false"
