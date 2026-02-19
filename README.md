@@ -1,3 +1,3 @@
 # sample-getting-started-config
 
-Test comment for config validation 19th feb
+Test comment for config validation 19th feb - 2
