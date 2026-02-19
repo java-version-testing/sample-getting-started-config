@@ -1,3 +1,3 @@
 # sample-getting-started-config
 
-Test comment for PR build 1
+Test comment for config validation 1
